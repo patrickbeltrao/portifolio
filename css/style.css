@@ -1,0 +1,11 @@
+body{
+    margin: 0;
+    padding: 0;
+
+}
+#fundo{
+    width: 70%;
+    height: 400px;
+    background: border-box;
+    background-position: center;
+}
